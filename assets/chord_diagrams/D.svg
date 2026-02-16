@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="80" viewBox="0 0 60 80">
+<text x="30.0" y="12" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#111111" text-anchor="middle">D</text>
+<rect x="7" y="15" width="46" height="4" fill="#333333"/>
+<line x1="8" y1="18.0" x2="52" y2="18.0" stroke="#333333" stroke-width="1"/>
+<line x1="8" y1="28.8" x2="52" y2="28.8" stroke="#333333" stroke-width="1"/>
+<line x1="8" y1="39.6" x2="52" y2="39.6" stroke="#333333" stroke-width="1"/>
+<line x1="8" y1="50.400000000000006" x2="52" y2="50.400000000000006" stroke="#333333" stroke-width="1"/>
+<line x1="8" y1="61.2" x2="52" y2="61.2" stroke="#333333" stroke-width="1"/>
+<line x1="8" y1="72.0" x2="52" y2="72.0" stroke="#333333" stroke-width="1"/>
+<line x1="8.0" y1="18" x2="8.0" y2="72.0" stroke="#333333" stroke-width="1"/>
+<line x1="16.8" y1="18" x2="16.8" y2="72.0" stroke="#333333" stroke-width="1"/>
+<line x1="25.6" y1="18" x2="25.6" y2="72.0" stroke="#333333" stroke-width="1"/>
+<line x1="34.400000000000006" y1="18" x2="34.400000000000006" y2="72.0" stroke="#333333" stroke-width="1"/>
+<line x1="43.2" y1="18" x2="43.2" y2="72.0" stroke="#333333" stroke-width="1"/>
+<line x1="52.0" y1="18" x2="52.0" y2="72.0" stroke="#333333" stroke-width="1"/>
+<line x1="5.0" y1="7" x2="11.0" y2="13" stroke="#666666" stroke-width="1.5"/>
+<line x1="5.0" y1="13" x2="11.0" y2="7" stroke="#666666" stroke-width="1.5"/>
+<line x1="13.8" y1="7" x2="19.8" y2="13" stroke="#666666" stroke-width="1.5"/>
+<line x1="13.8" y1="13" x2="19.8" y2="7" stroke="#666666" stroke-width="1.5"/>
+<circle cx="25.6" cy="10" r="3" fill="none" stroke="#333333" stroke-width="1"/>
+
+<circle cx="34.400000000000006" cy="34.2" r="4" fill="#111111"/>
+<text x="34.400000000000006" y="35.2" font-family="Arial, sans-serif" font-size="6" fill="white" text-anchor="middle" dominant-baseline="middle">1</text>
+<circle cx="43.2" cy="45.00000000000001" r="4" fill="#111111"/>
+<text x="43.2" y="46.00000000000001" font-family="Arial, sans-serif" font-size="6" fill="white" text-anchor="middle" dominant-baseline="middle">3</text>
+<circle cx="52.0" cy="34.2" r="4" fill="#111111"/>
+<text x="52.0" y="35.2" font-family="Arial, sans-serif" font-size="6" fill="white" text-anchor="middle" dominant-baseline="middle">2</text>
+</svg>
